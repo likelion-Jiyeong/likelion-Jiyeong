@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on AI Backend Engineering (data ETL, modeling, model serving, etc.)  
-📫 How to reach me: julia043130@gmail.com  
+🔭 I’m currently working on AI Backend Engineering (data ETL, modeling, model serving, etc.)
 🌱 Skill set: Python, docker, git, django, Airflow, postgreSQL, MySQL, Redis, Tensorflow, Keras etc  
+📫 How to reach me: julia043130@gmail.com  
 ⚡ Recent Interest: Coding Test!!!
