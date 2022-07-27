@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 🌱 Skill set: Python, docker, git, django, Airflow, postgreSQL, MySQL, Redis, Tensorflow, Keras etc  
 📫 How to reach me: julia043130@gmail.com  
 ⚡ Recent Interest: Coding Test and Spark!!!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelion-Jiyeong)](https://github.com/likelion-Jiyeong/github-readme-stats)
