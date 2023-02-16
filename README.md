@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on AI Backend Engineering (data ETL, modeling, model serving, etc.)
-🌱 Skill set: Python, docker, git, django, Airflow, postgreSQL, MySQL, Redis, Tensorflow, Keras etc  
+
+🌱 Skill set: Python, AWS, Airflow, Flask, postgreSQL, elasticsearch, MySQL, Redis, etc  
+
 📫 How to reach me: julia043130@gmail.com  
-⚡ Recent Interest: Coding Test and Spark!!!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelion-Jiyeong)](https://github.com/likelion-Jiyeong/github-readme-stats)
